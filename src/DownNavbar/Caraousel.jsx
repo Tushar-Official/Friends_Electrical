@@ -14,7 +14,7 @@ function UncontrolledExample() {
           alt="First slide"
         />
         <Carousel.Caption>
-          <h3 className='font-bold text-xl text-black'>MULTIPLE HOME APPLIANCES</h3>
+          <h3 className='font-bold text-xl text-black'>MULTIPLE HOME APPLIANCE</h3>
           
         </Carousel.Caption>
       </Carousel.Item>
