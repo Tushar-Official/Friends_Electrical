@@ -1,0 +1,102 @@
+[
+{
+    "id":1,
+    "name":"havells Wire",
+    "image":"https://services.ibo.com/media/v1/products/images/4f27a6b6-5b23-45db-83f9-b997f1777a27/havells-life-line-15-sq-mm-black-90-m-pvc-insulated-wire-1.jpeg",
+    "brand":"Havells",
+    "quantity":"90 meters",
+    "price":"1200",
+    "size":"1.5mm",
+    "description":"Cooler,invertor,room Heater etc."
+},
+{ 
+"id":2,
+"name":"Anchor Wire",
+"image":"https://lsin.panasonic.com/images/wiresandcables/wire_feature2.jpg",
+"brand":"Anchor",
+"quantity":"90 meters",
+"price":"1200",
+"size":"1.5mm",
+"description":"Cooler,invertor,room Heater etc."
+},
+{
+    "id":3,
+    "name":"GreatWhite Wire",
+    "image":"https://www.great-white.in/images/securex-yellow.jpg",
+    "brand":"Greatwhite",
+    "quantity":"90 meters",
+    "price":"1200",
+    "size":"1.5mm",
+    "description":"Cooler,invertor,room Heater etc."
+},
+{
+    "id":4,
+    "name":"PloyCab Wire",
+    "image":"https://5.imimg.com/data5/GJ/CM/TH/SELLER-3059229/polycab-wires-0-75-mm-500x500.jpg",
+    "brand":"PloyCab",
+    "quantity":"90 meters",
+    "price":"1200",
+    "size":"1.5mm",
+    "description":"Cooler,invertor,room Heater etc."
+},{ 
+"id":5,
+"name":"Aluminium Wire",
+"image":"https://5.imimg.com/data5/IO/PD/MD/SELLER-27051926/pvc-coated-wire-500x500.jpg",
+"brand":"Victor",
+"quantity":"90 meters",
+"price":"1200",
+"size":"2.5mm",
+"description":"Cooler,invertor,room Heater etc."
+},
+{
+    "id":6,
+    "name":"Genral Wire",
+    "image":"https://m.media-amazon.com/images/I/61oQvQYnxvL._SL1155_.jpg",
+    "brand":"Roxy",
+    "quantity":"60 meters",
+    "price":"800",
+    "size":"1.5mm",
+    "description":"Cooler,invertor,room Heater etc."
+},
+{ 
+"id":7,
+"name":"Anchor Wire",
+"image":"https://5.imimg.com/data5/SELLER/Default/2021/12/LM/BN/RY/10297266/anchor-house-wire-1000x1000.jpg",
+"brand":"Anchor",
+"quantity":"60 meters",
+"price":"900",
+"size":"1.5mm",
+"description":"Cooler,invertor,room Heater etc."
+},
+{
+    "id":8,
+    "name":"GreatWhite Wire",
+    "image":"https://cdn.moglix.com/p/K3guby70zPpdn-xxlarge.jpg",
+    "brand":"Greatwhite",
+    "quantity":"60 meters",
+    "price":"750",
+    "size":"1.5mm",
+    "description":"Cooler,invertor,room Heater etc."
+},
+{
+    "id":9,
+    "name":"PolyCab Wire",
+    "image":"https://5.imimg.com/data5/OB/VE/MY-9417093/img_8034-500x500.jpg",
+    "brand":"Polycab",
+    "quantity":"60 meters",
+    "price":"850",
+    "size":"1.5mm",
+    "description":"Cooler,invertor,room Heater etc."
+},
+{ 
+"id":10,
+"name":"Aluminium Wire",
+"image":"https://5.imimg.com/data5/BA/MV/KP/ANDROID-4181240/product-jpeg-500x500.png",
+"brand":"Victor",
+"quantity":"60 meters",
+"price":"500",
+"size":"2.5mm",
+"capacity":"Cooler,invertor,room Heater etc."
+}
+
+]

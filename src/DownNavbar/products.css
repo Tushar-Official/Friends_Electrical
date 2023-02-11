@@ -1,0 +1,47 @@
+.p-items img{
+    height: 320px;
+    width: 100%;
+    }
+.p-items table tr th{
+    height: 30px;
+    width: 300px;
+    background-color: white;    
+}
+.p-items table tr th .name{
+    font-size: 14px;
+    width: 295px;
+    text-align: start;
+       
+}
+.p-items table tr th .name p{
+    color: rgb(113, 113, 113);
+}
+.p-head{
+    
+    background-image: linear-gradient (rgb(36, 36, 36), rgb(205, 205, 201));
+    color: rgb(249, 249, 249);
+}
+.products{
+    text-align: center;
+    background-image: linear-gradient(rgb(36, 36, 36), rgb(205, 205, 201));
+}
+.p-items table{
+    width: 85%;
+    border-spacing: 25px;
+    height: 40vh;
+    border-collapse:separate;
+    
+}
+.p-items{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 60px;
+   
+}
+.p-items table tr th:hover{
+    cursor: pointer;
+    box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.2), 0 6px 20px 0 rgba(255, 255, 255, 0.19);
+    }

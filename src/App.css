@@ -1,0 +1,25 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.d-navbar{
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    height: 35px;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(14, 12, 50);
+    padding: 5px 265px 0px 265px;
+    background-color: rgb(226, 223, 223);
+}
+.d-navbar img{
+    
+    height: 25px;
+    width: 28px;
+}
+.slider{
+    
+   
+    height: 350px;
+}
